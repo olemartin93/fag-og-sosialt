@@ -1,0 +1,1 @@
+var e=class extends Error{code;constructor(e,t){super(t??e),this.code=e,this.name=`ApiError`}};export{e as t};
